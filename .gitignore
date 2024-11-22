@@ -1,0 +1,20 @@
+# Ignore the source folder (Sphinx source files)
+source/
+
+# Ignore build system files
+Makefile
+make.bat
+
+# Ignore virtual environments
+venv/
+*.env
+
+# Ignore other unnecessary files
+*.pyc
+*.pyo
+__pycache__/
+*.log
+
+# Keep the build folder and any other necessary files
+!build/
+

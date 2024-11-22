@@ -1,0 +1,9 @@
+/* Hide Sphinx Navigation and Footer */
+div#sphinxsidebar, div#sphinxfooter {
+    display: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
